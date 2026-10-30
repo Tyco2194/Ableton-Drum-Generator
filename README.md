@@ -1,3 +1,8 @@
+#Disclaimer
+
+This was created using Claude Code because I couldn't find any free applications that would take in a group of audio/midi tracks and create a drum track based on transients. I've reviewed the code myself and didn't find anything that would create issues with Ableton or your currently recorded tracks, but save often and use at your own risk.
+
+
 # DrumGen — phase 1
 
 Two Max for Live devices for Live 12 Suite:
